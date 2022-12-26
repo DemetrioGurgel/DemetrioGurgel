@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3CDemetrio+Gurgel%2F%3E)](https://git.io/typing-svg)
+
 ### Olá, eu sou Demetrio!
 
 - 🔭 Apaixonado por tecnologia e em constante evolução.
@@ -22,6 +25,10 @@
 </div>
   
  ##
+ <div style="display: inline_block"><br>
+ <img align="right" alt="math-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84646971/151370454-d71d3c89-f52a-4a8d-b744-c1d10c90c87c.gif">
+</div>
+  
   
 <div>
   <a href="https://instagram.com/demetrio_lugu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
