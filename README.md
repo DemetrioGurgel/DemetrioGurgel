@@ -6,6 +6,14 @@
 - 🔭 Apaixonado por tecnologia e em constante evolução.
 - 🌱 Estudante de Engenharia de computação-IFPB
 
+<hr>
+
+### Hello, I am Demetrio!
+
+- 🔭 Passionate about technology and constantly evolving.
+- 🌱 Computer Engineering Student - IFPB
+
+
 ##
   
 <div align="center">
