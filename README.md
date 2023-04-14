@@ -18,8 +18,8 @@
   
 <div align="center">
   <a href="https://github.com/DemetrioGurgel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DemetrioGurgel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemetrioGurgel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DemetrioGurgel&show_icons=true&theme=gotham&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemetrioGurgel&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 #
@@ -47,8 +47,6 @@
  <div style="display: inline_block"><br>
  <img align="right" alt="math-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84646971/151370454-d71d3c89-f52a-4a8d-b744-c1d10c90c87c.gif">
 </div>
-  
-
   
 <div>
   <a href="https://instagram.com/demetrio_lugu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
